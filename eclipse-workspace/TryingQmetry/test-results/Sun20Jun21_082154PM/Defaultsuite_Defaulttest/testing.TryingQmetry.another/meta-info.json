@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "ho",
+        "resultFileName": "Ho",
+        "sign": "another.ho()[pri:0, instance:testing.TryingQmetry.another@4d5d943d]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1624200714660,
+      "duration": 30,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "second",
+        "resultFileName": "Second",
+        "sign": "SecondTest.second()[pri:0, instance:testing.TryingQmetry.SecondTest@4c583ecf]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1624281085153,
+      "duration": 18,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "last",
+        "resultFileName": "Last",
+        "sign": "SecondTest.last()[pri:0, instance:testing.TryingQmetry.SecondTest@4c583ecf]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1624281085190,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

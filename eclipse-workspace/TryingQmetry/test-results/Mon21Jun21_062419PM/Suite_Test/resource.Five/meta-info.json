@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "smoke"
+        ],
+        "name": "mode",
+        "resultFileName": "Mode",
+        "sign": "Five.mode()[pri:0, instance:resource.Five@59474f18]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1624280059645,
+      "duration": 19,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
